@@ -9,5 +9,6 @@ while (a<10){
 a = 0
 //####### do while
 do{
-    console.log(a)
+    console.log(a);
+    a++;
 } while(a<=10)
