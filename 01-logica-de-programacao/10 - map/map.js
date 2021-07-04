@@ -1,3 +1,5 @@
+//A funçãi map tem como objetivo alterar/manipular os valores de um vetor
+
 const vetor = ['10', '20', '30'];
 console.log(vetor);
 
